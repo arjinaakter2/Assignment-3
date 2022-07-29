@@ -1,0 +1,17 @@
+@media screen  and (max-width:576px ){
+    .company{
+        visibility: hidden;
+    }
+    .a{
+        display: none;
+    }
+    
+}
+@media screen and (min-width:577px ) and (max-width:992px){
+    
+  .company{
+    visibility: hidden;
+}
+.a{
+    display: none;
+}
